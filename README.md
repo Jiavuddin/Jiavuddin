@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Syed Jiavuddin
 
-![GitHub Profile Banner](https://your-banner-image-url.com) <!-- Optional: Add a banner image -->
+![GitHub Profile Banner](./paeqrn1p1qv81.jpg) <!-- Optional: Add a banner image -->
 
 ## 🚀 About Me
 I am a **MERN Stack Developer** with over **3 years of experience** in building and maintaining robust web applications. My journey in tech began with a solid foundation in **Electronics and Communication Engineering**, and I've since evolved into a passionate developer focused on delivering seamless user experiences and scalable solutions.
@@ -12,8 +12,8 @@ I am a **MERN Stack Developer** with over **3 years of experience** in building 
 ### 💼 Professional Experience
 - **Associate Software Engineer** at Napier Healthcare Solutions  
   - Migrated HIS product from AngularJS to React.js, enhancing performance and usability.
-  - Developed a customizable healthcare analytics app, translating complex data into intuitive dashboards.
   - Spearheaded government project upgrades, ensuring compliance with industry standards.
+  - Developed a customizable healthcare analytics app, translating complex data into intuitive dashboards.
   - Created reusable components, optimized project efficiency, and improved test coverage.
 
 ### 🛠 Skills & Technologies
@@ -44,14 +44,10 @@ I'm always open to new opportunities and collaborations. Whether you're looking 
 
 ### 📫 Contact Me
 - **LinkedIn:** [Syed Jiavuddin](https://www.linkedin.com/in/jiavuddin-syed)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](mailto:syed.jiavuddin99@gmail.com)
 
 ### 🌐 Portfolio
 - **[Explore My Portfolio](https://jiavuddin-syed.vercel.app/):** See my work in action!
 
 ### ✨ Fun Fact
-I'm passionate about robotics and automation, having led several innovative projects during my academic years.
-
----
-
-Feel free to customize the links, contact details, and banner image URL according to your preferences!
+When I'm not crafting sleek web experiences, you can find me optimizing my day at the gym or strategizing my next BGMI win on the weekends!
