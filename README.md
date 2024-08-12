@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hello, I'm Syed Jiavuddin
 
-<!--
-**Jiavuddin/Jiavuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Profile Banner](https://your-banner-image-url.com) <!-- Optional: Add a banner image -->
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a **MERN Stack Developer** with over **3 years of experience** in building and maintaining robust web applications. My journey in tech began with a solid foundation in **Electronics and Communication Engineering**, and I've since evolved into a passionate developer focused on delivering seamless user experiences and scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- **Bachelor of Engineering** in Electronics and Communication  
+  Sathyabama Institute of Science & Technology, Chennai
+
+### 💼 Professional Experience
+- **Associate Software Engineer** at Napier Healthcare Solutions  
+  - Migrated HIS product from AngularJS to React.js, enhancing performance and usability.
+  - Developed a customizable healthcare analytics app, translating complex data into intuitive dashboards.
+  - Spearheaded government project upgrades, ensuring compliance with industry standards.
+  - Created reusable components, optimized project efficiency, and improved test coverage.
+
+### 🛠 Skills & Technologies
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Redux, Bootstrap
+- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL
+- **Database:** MongoDB, SQL, Mongoose ODM
+- **DevOps & Tools:** Git, GitHub, AWS, Docker, Nginx
+- **Other:** TypeScript, Python, Microprocessors & Microcontrollers
+
+### 📚 Currently Learning
+- **Data Structures and Algorithms**  
+- **System Design**  
+- **Web3 Technologies**  
+- **TypeScript and Next.js**
+
+### 🌟 Services Offered
+- Web Development  
+- Web Design  
+- User Experience Design (UED)  
+- SaaS Development
+
+### 📈 Featured Projects
+- **[Healthcare Analytics Dashboard](https://github.com/your-repo-link):** Customizable data dashboards for healthcare metrics.
+- **[Business Acquisition Platform](https://github.com/your-repo-link):** Streamlined platform for buyers, sellers, and professionals.
+
+### 🤝 Let's Collaborate!
+I'm always open to new opportunities and collaborations. Whether you're looking for a developer to bring your ideas to life or need help with an existing project, feel free to reach out!
+
+### 📫 Contact Me
+- **LinkedIn:** [Syed Jiavuddin](https://www.linkedin.com/in/jiavuddin-syed)
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+### 🌐 Portfolio
+- **[Explore My Portfolio](https://jiavuddin-syed.vercel.app/):** See my work in action!
+
+### ✨ Fun Fact
+I'm passionate about robotics and automation, having led several innovative projects during my academic years.
+
+---
+
+Feel free to customize the links, contact details, and banner image URL according to your preferences!
