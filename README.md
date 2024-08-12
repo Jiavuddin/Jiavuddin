@@ -34,10 +34,11 @@ I am a **MERN Stack Developer** with over **3 years of experience** in building 
 - Web Design  
 - User Experience Design (UED)  
 - SaaS Development
-
+<!-- 
 ### 📈 Featured Projects
 - **[Healthcare Analytics Dashboard](https://github.com/your-repo-link):** Customizable data dashboards for healthcare metrics.
 - **[Business Acquisition Platform](https://github.com/your-repo-link):** Streamlined platform for buyers, sellers, and professionals.
+-->
 
 ### 🤝 Let's Collaborate!
 I'm always open to new opportunities and collaborations. Whether you're looking for a developer to bring your ideas to life or need help with an existing project, feel free to reach out!
