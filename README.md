@@ -8,8 +8,7 @@
 I am a **MERN Stack Developer** with over **3 years of experience** in building and maintaining robust web applications. My journey in tech began with a solid foundation in **Electronics and Communication Engineering**, and I've since evolved into a passionate developer focused on delivering seamless user experiences and scalable solutions.
 
 ### 🎓 Education
-- **Bachelor of Engineering** in Electronics and Communication  
-  Sathyabama Institute of Science & Technology, Chennai
+- **Bachelor of Engineering** in Electronics and Communication from Sathyabama Institute of Science & Technology, Chennai
 
 ### 💼 Professional Experience
 - **Associate Software Engineer** at Napier Healthcare Solutions  
@@ -53,4 +52,4 @@ I'm always open to new opportunities and collaborations. Whether you're looking 
 - **[Explore My Portfolio](https://jiavuddin-syed.vercel.app/):** See my work in action!
 
 ### ✨ Fun Fact
-When I'm not crafting sleek web experiences, you can find me optimizing my day at the gym or strategizing my next BGMI win on the weekends!
+When I'm not coding, you can find me hitting the gym, binge-watching Japanese anime, or practicing my Japanese language skills!
