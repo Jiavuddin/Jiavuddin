@@ -1,6 +1,8 @@
-# 👋 Hello, I'm Syed Jiavuddin
+### 👋 Hello, I'm Syed Jiavuddin 
 
-![GitHub Profile Banner](./paeqrn1p1qv81.jpg) <!-- Optional: Add a banner image -->
+<!-- <img src="./paeqrn1p1qv81.jpg" alt="Profile Image" width="100" height="100" style="position: border-radius: 50%;"> -->
+
+<!-- ![GitHub Profile Banner](./paeqrn1p1qv81.jpg) Optional: Add a banner image -->
 
 ## 🚀 About Me
 I am a **MERN Stack Developer** with over **3 years of experience** in building and maintaining robust web applications. My journey in tech began with a solid foundation in **Electronics and Communication Engineering**, and I've since evolved into a passionate developer focused on delivering seamless user experiences and scalable solutions.
