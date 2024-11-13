@@ -5,7 +5,7 @@
 <!-- ![GitHub Profile Banner](./paeqrn1p1qv81.jpg) Optional: Add a banner image -->
 
 ## 🚀 About Me
-I am a **MERN Stack Developer** with over **3 years of experience** in building and maintaining robust web applications. My journey in tech began with a solid foundation in **Electronics and Communication Engineering**, and I've since evolved into a passionate developer focused on delivering seamless user experiences and scalable solutions.
+I am a **MERN Stack Developer** with over **4 years of experience** in building and maintaining robust web applications. My journey in tech began with a solid foundation in **Electronics and Communication Engineering**, and I've since evolved into a passionate developer focused on delivering seamless user experiences and scalable solutions.
 
 ### 🎓 Education
 - **Bachelor of Engineering** in Electronics and Communication from Sathyabama Institute of Science & Technology, Chennai
