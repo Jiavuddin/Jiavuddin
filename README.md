@@ -44,12 +44,14 @@ I am a **MERN Stack Developer** with over **4 years of experience** in building 
 ### 🤝 Let's Collaborate!
 I'm always open to new opportunities and collaborations. Whether you're looking for a developer to bring your ideas to life or need help with an existing project, feel free to reach out!
 
+<!-- 
 ### 📫 Contact Me
 - **LinkedIn:** [Syed Jiavuddin](https://www.linkedin.com/in/jiavuddin-syed)
 - **Email:** [your-email@example.com](mailto:syed.jiavuddin99@gmail.com)
 
 ### 🌐 Portfolio
 - **[Explore My Portfolio](https://jiavuddin-syed.vercel.app/):** See my work in action!
+-->
 
 ### ✨ Fun Fact
 When I'm not coding, you can find me hitting the gym, binge-watching Japanese anime, or practicing my Japanese language skills!
